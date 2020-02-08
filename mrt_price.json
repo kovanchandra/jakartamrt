@@ -1,110 +1,693 @@
 {
-    "price": [
+  "price": [
+    {
+      "from": "Bundaran HI",
+      "to": [
         {
-            "from": "Bundaran HI",
-            "to": [
-                {
-                    "station": "Dukuh Atas",
-                    "price": 3
-                },
-                 {
-                    "station": "Setiabudi Astra",
-                    "price": 4
-                },
-                 {
-                    "station": "Bendungan Hilir",
-                    "price": 4
-                },
-                 {
-                    "station": "Istora Mandiri",
-                    "price": 5
-                },
-                 {
-                    "station": "Senanyan",
-                    "price": 6
-                },
-                 {
-                    "station": "Asean",
-                    "price": 7
-                },
-                 {
-                    "station": "Blok M",
-                    "price": 8
-                },
-                 {
-                    "station": "Blok A",
-                    "price": 9
-                },
-                 {
-                    "station": "Haji Nawi",
-                    "price": 10
-                },
-                 {
-                    "station": "Cipete Raya",
-                    "price": 11
-                },
-                 {
-                    "station": "Fatmawati",
-                    "price": 13
-                },
-                 {
-                    "station": "Lebak Bulus",
-                    "price": 14
-                }
-            ]
+          "station": "Dukuh Atas",
+          "price": 5
         },
         {
-            "from": "Dukuh Atas",
-            "to": [
-                {
-                    "station": "Bundaran HI",
-                    "price": 3
-                },
-                 {
-                    "station": "Setiabudi Astra",
-                    "price": 3
-                },
-                 {
-                    "station": "Bendungan Hilir",
-                    "price": 3
-                },
-                 {
-                    "station": "Istora Mandiri",
-                    "price": 4
-                },
-                 {
-                    "station": "Senanyan",
-                    "price": 5
-                },
-                 {
-                    "station": "Asean",
-                    "price": 7
-                },
-                 {
-                    "station": "Blok M",
-                    "price": 7
-                },
-                 {
-                    "station": "Blok A",
-                    "price": 8
-                },
-                 {
-                    "station": "Haji Nawi",
-                    "price": 9
-                },
-                 {
-                    "station": "Cipete Raya",
-                    "price": 10
-                },
-                 {
-                    "station": "Fatmawati",
-                    "price": 12
-                },
-                 {
-                    "station": "Lebak Bulus",
-                    "price": 14
-                }
-            ]
+          "station": "Setiabudi Astra",
+          "price": 6
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 7
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 8
+        },
+        {
+          "station": "Senayan",
+          "price": 9
+        },
+        {
+          "station": "Asean",
+          "price": 10
+        },
+        {
+          "station": "Blok M",
+          "price": 11
+        },
+        {
+          "station": "Blok A",
+          "price": 12
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 13
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 14
+        },
+        {
+          "station": "Fatmawati",
+          "price": 14
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
         }
-    ]
+      ]
+    },
+    {
+      "from": "Dukuh Atas",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 4
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 5
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 6
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 7
+        },
+        {
+          "station": "Senayan",
+          "price": 7
+        },
+        {
+          "station": "Asean",
+          "price": 9
+        },
+        {
+          "station": "Blok M",
+          "price": 9
+        },
+        {
+          "station": "Blok A",
+          "price": 10
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 11
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 14
+        },
+        {
+          "station": "Fatmawati",
+          "price": 12
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "from": "Setiabudi Astra",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 5
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 4
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 4
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 5
+        },
+        {
+          "station": "Senayan",
+          "price": 6
+        },
+        {
+          "station": "Asean",
+          "price": 7
+        },
+        {
+          "station": "Blok M",
+          "price": 8
+        },
+        {
+          "station": "Blok A",
+          "price": 9
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 9
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 10
+        },
+        {
+          "station": "Fatmawati",
+          "price": 11
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Bendungan Hilir",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 6
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 5
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 3
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 4
+        },
+        {
+          "station": "Senayan",
+          "price": 5
+        },
+        {
+          "station": "Asean",
+          "price": 6
+        },
+        {
+          "station": "Blok M",
+          "price": 7
+        },
+        {
+          "station": "Blok A",
+          "price": 8
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 8
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 9
+        },
+        {
+          "station": "Fatmawati",
+          "price": 10
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Istora Mandiri",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 7
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 6
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 4
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 3
+        },
+        {
+          "station": "Senayan",
+          "price": 4
+        },
+        {
+          "station": "Asean",
+          "price": 5
+        },
+        {
+          "station": "Blok M",
+          "price": 6
+        },
+        {
+          "station": "Blok A",
+          "price": 7
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 7
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 8
+        },
+        {
+          "station": "Fatmawati",
+          "price": 9
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Senayan",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 8
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 7
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 5
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 4
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 3
+        },
+        {
+          "station": "Asean",
+          "price": 4
+        },
+        {
+          "station": "Blok M",
+          "price": 5
+        },
+        {
+          "station": "Blok A",
+          "price": 6
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 6
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 7
+        },
+        {
+          "station": "Fatmawati",
+          "price": 8
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Asean",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 9
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 7
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 6
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 5
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 4
+        },
+        {
+          "station": "Senayan",
+          "price": 3
+        },
+        {
+          "station": "Blok M",
+          "price": 4
+        },
+        {
+          "station": "Blok A",
+          "price": 5
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 6
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 7
+        },
+        {
+          "station": "Fatmawati",
+          "price": 7
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Blok M",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 10
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 9
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 7
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 6
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 5
+        },
+        {
+          "station": "Senayan",
+          "price": 4
+        },
+        {
+          "station": "Asean",
+          "price": 3
+        },
+        {
+          "station": "Blok A",
+          "price": 4
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 4
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 5
+        },
+        {
+          "station": "Fatmawati",
+          "price": 6
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Blok A",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 11
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 9
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 8
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 7
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 6
+        },
+        {
+          "station": "Senayan",
+          "price": 5
+        },
+        {
+          "station": "Asean",
+          "price": 4
+        },
+        {
+          "station": "Blok M",
+          "price": 3
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 3
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 4
+        },
+        {
+          "station": "Fatmawati",
+          "price": 5
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Haji Nawi",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 12
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 10
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 9
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 8
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 7
+        },
+        {
+          "station": "Senayan",
+          "price": 6
+        },
+        {
+          "station": "Asean",
+          "price": 5
+        },
+        {
+          "station": "Blok M",
+          "price": 4
+        },
+        {
+          "station": "Blok A",
+          "price": 3
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 3
+        },
+        {
+          "station": "Fatmawati",
+          "price": 4
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Cipete Raya",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 13
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 11
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 9
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 8
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 7
+        },
+        {
+          "station": "Senayan",
+          "price": 6
+        },
+        {
+          "station": "Asean",
+          "price": 6
+        },
+        {
+          "station": "Blok M",
+          "price": 4
+        },
+        {
+          "station": "Blok A",
+          "price": 3
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 3
+        },
+        {
+          "station": "Fatmawati",
+          "price": 4
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Fatmawati",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 14
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 12
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 10
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 9
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 8
+        },
+        {
+          "station": "Senayan",
+          "price": 7
+        },
+        {
+          "station": "Asean",
+          "price": 7
+        },
+        {
+          "station": "Blok M",
+          "price": 5
+        },
+        {
+          "station": "Blok A",
+          "price": 4
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 3
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 3
+        },
+        {
+          "station": "Lebak Bulus",
+          "price": null
+        }
+      ]
+    },
+    {
+      "from": "Lebak Bulus",
+      "to": [
+        {
+          "station": "Bundaran HI",
+          "price": 14
+        },
+        {
+          "station": "Dukuh Atas",
+          "price": 13
+        },
+        {
+          "station": "Setiabudi Astra",
+          "price": 11
+        },
+        {
+          "station": "Bendungan Hilir",
+          "price": 10
+        },
+        {
+          "station": "Istora Mandiri",
+          "price": 9
+        },
+        {
+          "station": "Senayan",
+          "price": 8
+        },
+        {
+          "station": "Asean",
+          "price": 7
+        },
+        {
+          "station": "Blok M",
+          "price": 6
+        },
+        {
+          "station": "Blok A",
+          "price": 5
+        },
+        {
+          "station": "Haji Nawi",
+          "price": 4
+        },
+        {
+          "station": "Cipete Raya",
+          "price": 4
+        },
+        {
+          "station": "Fatmawati",
+          "price": 3
+        }
+      ]
+    }
+  ]
 }
