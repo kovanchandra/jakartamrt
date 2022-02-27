@@ -1,36 +1,38 @@
 [
-    {
-        "subsriber_id" : "Mandiri123",
-        "subscriber_rep": "SJ9731",
-        "products : [
-            {
-                "product_id": "MAN-SEK",
-                "product_rep": "KO6896",
-                "projects" : [
-                    "project_id" : "MAN-SEK-OPEN-ACC",
-                    "status" : "active",
-                    "created_date" : Feb, 14 2002,
-                    "project_rep": "SJ9731"
-                ]
-
-            }
+  {
+    "subsriber_id": "Mandiri123",
+    "subscriber_rep": "SJ9731",
+    "products": [
+      {
+        "product_id": "MAN-SEK",
+        "product_rep": "KO6896",
+        "projects": [
+          {
+            "project_id": "MAN-SEK-OPEN-ACC",
+            "status": "active",
+            "created_date": "Feb-14-2002",
+            "project_rep": "SJ9731"
+          }
         ]
-    },
-    {
-        "subsriber_id" : "CIMB NIAGA",
-        "subscriber_rep": "KK0001",
-        "products : [
-            {
-                "product_id": "MAN-SEK",
-                "product_rep": "KO6896",
-                "projects" : [
-                    "project_id" : "MAN-SEK-OPEN-ACC",
-                    "status" : "active",
-                    "created_date" : Feb, 14 2002,
-                    "project_rep": "SJ9731"
-                ]
-
-            }
+      }
+    ]
+  },
+  {
+    "subsriber_id": "CIMB NIAGA",
+    "subscriber_rep": "KK0001",
+    "products": [
+      {
+        "product_id": "MAN-SEK",
+        "product_rep": "KO6896",
+        "projects": [
+          {
+            "project_id": "MAN-SEK-OPEN-ACC",
+            "status": "active",
+            "created_date": "Feb 14 2002",
+            "project_rep": "SJ9731"
+          }
         ]
-    }
+      }
+    ]
+  }
 ]
