@@ -21,6 +21,7 @@
   {
     "subscriber_id": "CIMB123",
     "subscriber_name": "Bank Cimb Niaga",
+    "subscriber_rep": "KK0007",
     "products": [
       {
         "product_id": "MAN-SEK",
