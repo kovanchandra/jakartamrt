@@ -1,6 +1,7 @@
 [
   {
     "subscriber_id": "Mandiri123",
+    "subscriber_name": "Mandiri Persero Tbk.",
     "subscriber_rep": "SJ9731",
     "products": [
       {
@@ -18,8 +19,8 @@
     ]
   },
   {
-    "subscriber_id": "CIMB NIAGA",
-    "subscriber_rep": "KK0001",
+    "subscriber_id": "CIMB-123",
+    "subscriber_name": "Bank Cimb Niaga",
     "products": [
       {
         "product_id": "MAN-SEK",
