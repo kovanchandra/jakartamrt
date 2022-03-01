@@ -3,6 +3,7 @@
     "subscriber_id": "Mandiri123",
     "subscriber_name": "Mandiri Persero Tbk.",
     "subscriber_rep": "SJ9731",
+    "subscriber_rep_name": "Juan F",
     "status": "Active",
     "created_date": "14-Feb-2021",
     "products": [
@@ -24,6 +25,7 @@
     "subscriber_id": "CIMB123",
     "subscriber_name": "Bank Cimb Niaga",
     "subscriber_rep": "KK0007",
+    "subscriber_rep_name": "Yash F",
     "status": "Pending",
     "created_date": "28-Mar-2022",
     "products": [
