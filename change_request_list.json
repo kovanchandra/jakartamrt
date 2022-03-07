@@ -1,24 +1,24 @@
 [
-    {
-        "request_id: "TRX123",
-        "subscriber_id" : "MAN",
-        "subscriber_name" : "MANDIRI",
-        "old_rep" : "SJ9731",
-        "old_rep_name": "Juan",
-        "new_rep" : "PO1237",
-        "new_rep_name": "Richard"
-        "request_date" : "Feb 28 2015 10:30PM",
-        "status": "Approved"
-    },
-    {
-      "request_id: "SNG333",
-        "subscriber_id" : "HOR348",
-        "subscriber_name" : "HOKBEN",
-        "old_rep" : "AR1235",
-        "old_rep_name": "Arief",
-        "new_rep" : "JJ8888",
-        "new_rep_name": "Mona"
-        "request_date" : "Jan 11 2020 10:30PM",
-        "status": "Reject"
-    }
+  {
+    "request_id": "TRX123",
+    "subscriber_id": "MAN",
+    "subscriber_name": "MANDIRI",
+    "old_rep": "SJ9731",
+    "old_rep_name": "Juan",
+    "new_rep": "PO1237",
+    "new_rep_name": "Richard",
+    "request_date": "Feb 28 2015 10:30PM",
+    "status": "Approved"
+  },
+  {
+    "request_id": "SNG333",
+    "subscriber_id": "HOR348",
+    "subscriber_name": "HOKBEN",
+    "old_rep": "AR1235",
+    "old_rep_name": "Arief",
+    "new_rep": "JJ8888",
+    "new_rep_name": "Mona",
+    "request_date": "Jan 11 2020 10:30PM",
+    "status": "Reject"
+  }
 ]
