@@ -1,6 +1,6 @@
 [
     {
-        "requested_id: "TRX123",
+        "request_id: "TRX123",
         "subscriber_id" : "MAN",
         "subscriber_name" : "MANDIRI",
         "old_rep" : "SJ9731",
@@ -11,7 +11,7 @@
         "status": "Approved"
     },
     {
-      "requested_id: "SNG333",
+      "request_id: "SNG333",
         "subscriber_id" : "HOR348",
         "subscriber_name" : "HOKBEN",
         "old_rep" : "AR1235",
