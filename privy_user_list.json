@@ -10,5 +10,11 @@
     "privy_name": "Lolaa",
     "role": "Admin",
     "status": "Non Active"
+  },
+  {
+    "privy_id": "XR4324",
+    "privy_name": "Cowboy",
+    "role": "Staff",
+    "status": "Non Active"
   }
 ]
