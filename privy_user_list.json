@@ -1,0 +1,14 @@
+[
+  {
+    "privy_id": "KO6896",
+    "privy_name": "Kovan",
+    "role": "Superadmin",
+    "status": "Active"
+  },
+  {
+    "privy_id": "LL1234",
+    "privy_name": "Lolaa",
+    "role": "Admin",
+    "status": "Non Active"
+  },
+]
