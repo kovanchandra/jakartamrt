@@ -2,7 +2,7 @@
   {
     "invoice_id": "INV-2312",
     "subscriber_id": "MAN-123",
-    "subsriber_name": "MANDIRI TBK",
+    "subscriber_name": "MANDIRI TBK",
     "invoice_period": "Jan-2021",
     "payment_date": "",
     "payment_method": "",
@@ -13,7 +13,7 @@
   {
     "invoice_id": "INV-9988",
     "subscriber_id": "CIMB-123",
-    "subsriber_name": "CIMB Nia Ramdhani",
+    "subscriber_name": "CIMB Nia Ramdhani",
     "invoice_period": "Feb-2021",
     "payment_date": "12-Feb-2021",
     "payment_method": "Transfer",
