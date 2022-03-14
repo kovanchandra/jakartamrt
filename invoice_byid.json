@@ -7,5 +7,6 @@
   "payment_method": "",
   "payment_status": 0,
   "payment_evidence": "http://s3.aws.com/inv-2312-evidence",
-  "total_invoice": 40000
+  "total_invoice": 40000,
+  "cut_off_date": "13 Feb 2021"
 }
