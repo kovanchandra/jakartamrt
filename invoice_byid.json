@@ -1,0 +1,9 @@
+{
+  "invoice_id": "INV-2312",
+  "invoice_period": "Jan-2021",
+  "payment_date": "",
+  "payment_method": "",
+  "payment_status": 0,
+  "payment_evidence": "http://s3.aws.com/inv-2312-evidence",
+  "total_invoice": 40000
+ }
