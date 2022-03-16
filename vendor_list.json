@@ -1,0 +1,18 @@
+[
+    {
+        "vendor_id": "VEND123",
+        "vendor_name": "GOJEK Indonesia",
+        "vendor_rep_privy_id": "SJ9731",
+        "vendor_rep_name": "Juan F",
+        "vendor_industry": "Transportation",
+        "status": 0
+    },
+    {
+        "vendor_id": "VEND223",
+        "vendor_name": "Adro Energy",
+        "vendor_rep_privy_id": "KL1233",
+        "vendor_rep_name": "Lenny",
+        "vendor_industry": "Oil & Gas",
+        "status": 1
+    }
+]
