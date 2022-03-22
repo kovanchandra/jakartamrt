@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Andi",
+    "privy_id": "AA1234",
+    "division": "IT",
+    "title": "Supervisor"
+  },
+  {
+    "name": "Budi",
+    "privy_id": "BB1234",
+    "division": "Finance",
+    "title": "Head"
+  },
+  {
+    "name": "Rudi",
+    "privy_id": "RR1234",
+    "division": "Project",
+    "title": "Staff"
+  }
+]
