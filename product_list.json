@@ -1,0 +1,18 @@
+[
+  {
+    "product_id": "PROD123"
+    "product_name": "Mandiri SME",
+    "product_rep_privy_id": "KK1234",
+    "product_rep_name": "Kajool",
+    "created_date": "12 Feb 2021",
+    "status": "Active"
+  },
+  {
+    "product_id": "PROD456"
+    "product_name": "Mandiri Digital Bank",
+    "product_rep_privy_id": "MD1234",
+    "product_rep_name": "Maroon",
+    "created_date": "10 Feb 2021",
+    "status": "Active"
+  }
+]
