@@ -1,6 +1,6 @@
 [
   {
-    "product_id": "PROD123"
+    "product_id": "PROD123",
     "product_name": "Mandiri SME",
     "product_rep_privy_id": "KK1234",
     "product_rep_name": "Kajool",
@@ -8,7 +8,7 @@
     "status": "Active"
   },
   {
-    "product_id": "PROD456"
+    "product_id": "PROD456",
     "product_name": "Mandiri Digital Bank",
     "product_rep_privy_id": "MD1234",
     "product_rep_name": "Maroon",
