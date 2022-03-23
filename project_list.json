@@ -4,18 +4,18 @@
   "projects": [
     {
       "project_id": "PRJ123",
-      "project_name": "Mandiri SME",
-      "project_rep_privy_id": "KK1234",
-      "project_rep_name": "Kajool",
-      "created_date": "12 Feb 2021",
+      "project_name": "Project Rahasia 5",
+      "project_rep_privy_id": "ZZ1234",
+      "project_rep_name": "Zelta",
+      "created_date": "18 Feb 2021",
       "status": "Active"
     },
     {
       "project_id": "PRJ456",
-      "project_name": "Mandiri Digital Bank",
-      "project_rep_privy_id": "MD1234",
-      "project_rep_name": "Maroon",
-      "created_date": "10 Feb 2021",
+      "project_name": "Project M Kuasa",
+      "project_rep_privy_id": "SJ9731",
+      "project_rep_name": "Limbad",
+      "created_date": "21 Feb 2021",
       "status": "Active"
     } 
   ]
