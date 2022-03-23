@@ -1,0 +1,22 @@
+{
+  "product_id": "PROD123",
+  "product_name": "Mandiri SME",
+  "projects": [
+    {
+      "project_id": "PRJ123",
+      "project_name": "Mandiri SME",
+      "project_rep_privy_id": "KK1234",
+      "project_rep_name": "Kajool",
+      "created_date": "12 Feb 2021",
+      "status": "Active"
+    },
+    {
+      "project_id": "PRJ456",
+      "project_name": "Mandiri Digital Bank",
+      "project_rep_privy_id": "MD1234",
+      "project_rep_name": "Maroon",
+      "created_date": "10 Feb 2021",
+      "status": "Active"
+    } 
+  ]
+}
