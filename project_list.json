@@ -8,7 +8,7 @@
       "project_rep_privy_id": "ZZ1234",
       "project_rep_name": "Zelta",
       "created_date": "18 Feb 2021",
-      "status": "Active"
+      "status": 0
     },
     {
       "project_id": "PRJ456",
@@ -16,7 +16,7 @@
       "project_rep_privy_id": "SJ9731",
       "project_rep_name": "Limbad",
       "created_date": "21 Feb 2021",
-      "status": "Active"
+      "status": 1
     } 
   ]
 }
