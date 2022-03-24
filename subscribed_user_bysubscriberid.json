@@ -2,7 +2,7 @@
   {
     "privy_name": "Juan",
     "privy_id": "SJ9731",
-    "created_date: "25 Jan 2021",
+    "created_date": "25 Jan 2021",
     "inviter_privy_name": "Kevin",
     "inviter_privy_id": "KK1234",
     "status": 1
@@ -10,7 +10,7 @@
   {
     "privy_name": "Kevin",
     "privy_id": "JJ9012",
-    "created_date: "11 Jan 2021",
+    "created_date": "11 Jan 2021",
     "inviter_privy_name": "Aryu",
     "inviter_privy_id": "AR1234",
     "status": 1
@@ -18,7 +18,7 @@
   {
     "privy_name": "Kautsar",
     "privy_id": "KS1234",
-    "created_date: "8 Jan 2021",
+    "created_date": "8 Jan 2021",
     "inviter_privy_name": "Siti",
     "inviter_privy_id": "ST1234",
     "status": 1
