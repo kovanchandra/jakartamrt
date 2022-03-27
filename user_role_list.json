@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Juan",
+    "privy_id": "SJ9731",
+    "role": "Superadmin",
+    "division": "Project",
+    "title": "VP",
+    "is_tte": true,
+    "is_dashboard": true,
+    "is_representative": true,
+    "status": 1
+  },
+  {
+    "name": "Kautasar",
+    "privy_id": "KS1234",
+    "role": "Superadmin",
+    "division": "Project",
+    "title": "Engineer",
+    "is_tte": true,
+    "is_dashboard": true,
+    "is_representative": false,
+    "status": 0
+  },
+  {
+    "name": "Kovan",
+    "privy_id": "KO6896",
+    "role": "Staff",
+    "division": "Project",
+    "title": "Sl*ve",
+    "is_tte": true,
+    "is_dashboard": false,
+    "is_representative": false,
+    "status": 1
+  }
+]
